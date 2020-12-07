@@ -1,1 +1,1 @@
-# sturdy-computing-machine
+Creating simple machine learning algorithms 
